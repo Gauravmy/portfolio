@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaurav's Java Portfolio</title>
+</head>
+<body>
+    <h1>Welcome to Gaurav's Java Portfolio</h1>
+    <p>Hello! I am G.S. Dhakad, an AI/ML student currently pursuing my B.Tech.</p>
+    <h2>Java Projects</h2>
+    <p>You can view my Java portfolio code on GitHub:</p>
+    <a href="https://github.com/your-username/java-portfolio/tree/main/src">View Java Code</a>
+</body>
+</html>
